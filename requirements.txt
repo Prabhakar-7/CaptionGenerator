@@ -4,3 +4,4 @@ torchvision --index-url https://download.pytorch.org/whl/cpu
 transformers
 pillow
 numpy
+opencv-python-headless
